@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\GitHub\\ttest\\Exam2_Zoo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FEB7ADBD-FC2A-4D69-B0E0-F754B1E81946}|Exam2_Zoo\\Exam2_Zoo.vcxproj|C:\\Users\\Admin\\Documents\\GitHub\\ttest\\Exam2_Zoo\\Exam2_Zoo\\exam.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FEB7ADBD-FC2A-4D69-B0E0-F754B1E81946}|Exam2_Zoo\\Exam2_Zoo.vcxproj|solutionrelative:Exam2_Zoo\\exam.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "exam.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\ttest\\Exam2_Zoo\\Exam2_Zoo\\exam.cpp",
+              "RelativeDocumentMoniker": "Exam2_Zoo\\exam.cpp",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\ttest\\Exam2_Zoo\\Exam2_Zoo\\exam.cpp",
+              "RelativeToolTip": "Exam2_Zoo\\exam.cpp",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAQwE0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-26T00:24:29.271Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
